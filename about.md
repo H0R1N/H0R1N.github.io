@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-19살 포너블 못하는 
+19살 포너블 못하는 사람
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+NO name
 
 ### Contact me
 
