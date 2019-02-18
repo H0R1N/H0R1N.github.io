@@ -8,7 +8,7 @@ permalink: /about/
 
 ### More Information
 
-NO name
+No name
 
 ### Contact me
 
