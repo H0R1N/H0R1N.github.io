@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-19살 포너블 못하는 사람
+pwner
 
 ### More Information
 
-No name
+2019 Codegate Quals ??rd
 
 ### Contact me
 
