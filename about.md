@@ -12,4 +12,4 @@ pwner
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[korea.mea@gmail.com](mailto:email@domain.com)
