@@ -1,2 +1,2 @@
-# H0R1N.github.io
+# H0R1N
 H0RIN Hacking Life
