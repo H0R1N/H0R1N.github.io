@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+19살 포너블 못하는 
 
 ### More Information
 
