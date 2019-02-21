@@ -1,12 +1,17 @@
 ---
 layout: post
 title: 19th Hacking CTF guess writeip
+
 date: 2019-02-21
 tags: [writeup]
 
 ---
 
-##generator.py
+ret sled + 64bit ROP
+
+
+
+####generator.py
 ```python
 #!/usr/bin/python2.7
 import os
@@ -22,7 +27,7 @@ os.system(("gcc -DLENGTH={} -mpreferred-stack-boundary=4  -fno-stack-protector -
 os.system(OUT)
 os.system("rm -rf " + OUT)
 ```
-##guess.c
+####guess.c
 ```c
 #include <stdio.h>
 #include <unistd.h>
@@ -44,7 +49,7 @@ int main(void)
 ```
 **랜덤한 크기로 buf가 생성된다. buf 크기를 정확히 모르기 때문에 그냥 ret sled처럼 ret주소를 많이 주고 rop해줬다. 한 번에 쉘이 안 따일 수도 있기 때문에 계속 해보면 쉘이 따인다.**
 
-##exploit.py
+####exploit.py
 ```python
 from pwn import*
 
