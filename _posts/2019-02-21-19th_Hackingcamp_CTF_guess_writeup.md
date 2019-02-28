@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 19th Hacking CTF guess writeip
+title: 19th Hacking CTF guess writeup
 
 date: 2019-02-21
 tags: [writeup]
