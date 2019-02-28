@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [how2heap] fastbin_dup
+title: fastbin_dup
 
 date: 2019-03-01
 tags: [heap]
